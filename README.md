@@ -20,4 +20,4 @@ Steps to run the project locally:
 
 Final UI interface of Movie App looks like
 
-![alt text](image.png)
+<img width="936" height="475" alt="image" src="https://github.com/user-attachments/assets/a1f393b0-14ae-4f7d-ac29-826f6a644441" />
