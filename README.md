@@ -21,7 +21,7 @@ Final UI interface of Movie App looks like
 <img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/9cfb4a95-3150-4978-9602-ee627905d0cd" />
 
 
-**Project related stuff:**
-API: https://www.themoviedb.org/settings/api
-Doc: https://developer.themoviedb.org/docs/authentication-application
+**Project related stuff:** \
+API: https://www.themoviedb.org/settings/api \
+Doc: https://developer.themoviedb.org/docs/authentication-application \
 Languages used: ReactJs, CSS, JS, HTML
