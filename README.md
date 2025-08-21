@@ -16,3 +16,8 @@ Steps to run the project locally:
 `npm run dev`
 
 6) Once the server is up, you’ll get a localhost link with a port number that you can use to access the application.
+
+
+Final UI interface of Movie App looks like
+
+![alt text](image.png)
